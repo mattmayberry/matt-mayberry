@@ -2,7 +2,7 @@
 mattmayberry@github:~$ whoami
 ```
 
-**Matt Mayberry** — founder, operator, builder of things.
+**Matt Mayberry** — founder, operator, builder of things. 🏴‍☠️
 
 ```
 mattmayberry@github:~$ cat /etc/motd
