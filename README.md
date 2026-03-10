@@ -2,51 +2,39 @@
 mattmayberry@github:~$ whoami
 ```
 
-**Matt Mayberry** — founder, operator, builder.
+**Matt Mayberry** — founder, operator, builder of things.
 
 ```
 mattmayberry@github:~$ cat /etc/motd
 
-  Consumer web · E-commerce · Applied AI
-  Currently shipping products people actually use.
+  Multi-time founder. Currently building consumer products
+  at the intersection of data, AI, and things people care about.
 
-mattmayberry@github:~$ ls -la projects/
+mattmayberry@github:~$ ls -la ventures/
 total ██
-drwxr-xr-x  founder    ██████████████████.com
-drwxr-xr-x  founder    ██████████████████.com
-drwxr-xr-x  founder    JasmineEnergy.com (RIP)
-drwxr-xr-x  founder    UseTemper.com (RIP)
-drwxr-xr-x  ops        BoundlessMind.ai (Acq)
-drwxr-xr-x  gm         DTC portfolio (3 brands)
-drwx------  private    ██████████████████
-drwx------  private    ██████████████████
-drwx------  private    ██████████████████
+
+drwxr-xr-x  co-founder   Jasmine Energy        # YC S22 · REC infrastructure for solar
+drwxr-xr-x  co-founder   Temper                 # metabolic health × behavioral science
+drwxr-xr-x  co-founder   Boundless Mind         # neuroscience-based AI for behavior change
+drwxr-xr-x  co-founder   Juris Protocol         # decentralized dispute resolution
+drwx------  operator     ████████████████       # DTC portfolio
+drwx------  private      ████████████████       # consumer health data platform
+drwx------  private      ████████████████       # AI + beauty, east-meets-west
+drwx------  private      ████████████████
 ```
 
 ```
 mattmayberry@github:~$ cat stack.txt
 
 Python · TypeScript · React · Supabase
-Claude Code · Lovable · Cloudflare Workers
-Stripe · Vercel · GitHub Actions
+Claude Code · Cloudflare Workers · Stripe
+Autonomous agents in production
+Things that probably shouldn't work but do
 ```
 
 ```
-mattmayberry@github:~$ history | tail -7
-  1  co-founded renewable energy co (Jasmine Energy YC-S22)
-  2  built decentralized dispute resolution system (Juris Protocol)
-  3  deployed autonomous AI agents in production
-  4  UseTemper for metabolic health
-  5  Boundless Mind AI for ML Behavior Change
-  6  automated SEO pipelines that write better than most humans
-  7  shipped consumer products from zero to revenue
-
 mattmayberry@github:~$ cat .plan
-Building things. Most of them you can't see yet.
-```
-
-```
-mattmayberry@github:~$ echo $CONTACT
+Building. Shipping. Most of it you can't see yet.
 ```
 
 ---
