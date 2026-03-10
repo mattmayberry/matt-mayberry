@@ -13,7 +13,7 @@ mattmayberry@github:~$ cat /etc/motd
 mattmayberry@github:~$ ls -la ventures/
 total ██
 
-drwxr-xr-x  co-founder   Jasmine Energy        # YC S22 · REC infrastructure for solar
+drwxr-xr-x  co-founder   Jasmine Energy         # YC S22 · REC infrastructure for solar
 drwxr-xr-x  co-founder   Temper                 # metabolic health × behavioral science
 drwxr-xr-x  ops-other    Boundless Mind         # neuroscience-based AI for behavior change
 drwxr-xr-x  co-founder   Juris Protocol         # decentralized dispute resolution
