@@ -17,10 +17,10 @@ drwxr-xr-x  co-founder   Jasmine Energy         # YC S22 · REC infrastructure f
 drwxr-xr-x  co-founder   Temper                 # metabolic health × behavioral science
 drwxr-xr-x  ops-other    Boundless Mind         # neuroscience-based AI for behavior change
 drwxr-xr-x  co-founder   Juris Protocol         # decentralized dispute resolution
-drwx------  operator     ████████████████       # DTC portfolio
+drwx------  private      ████████████████       # AI Lab
 drwx------  private      ████████████████       # consumer health data platform
 drwx------  private      ████████████████       # AI + beauty, east-meets-west
-drwx------  private      ████████████████       # Agentic operations
+drwx------  private      ████████████████       # Agentic Spam Blocker
 ```
 
 ```
