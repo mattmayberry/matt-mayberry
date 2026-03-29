@@ -49,4 +49,4 @@ Building. Shipping. Some of it you can see now.
 
 ---
 
-<sub>If you're seeing mostly empty repos, that's by design. The interesting stuff is behind `chmod 700` — or on <a href="[https://shopclawmart.com](https://www.shopclawmart.com/creators/0b191042-fae4-4a27-9bc4-39860bdd7e84)">ClawMart</a> and <a href="[https://themeridianlab.com)">The Meridian Lab</a>.</sub>
+<sub>If you're seeing mostly empty repos, that's by design. The interesting stuff is behind `chmod 700` — or on <a href="https://www.shopclawmart.com/creators/0b191042-fae4-4a27-9bc4-39860bdd7e84">ClawMart</a> · <a href="https://themeridianlab.com">themeridianlab.com</a>.</sub>
