@@ -18,7 +18,7 @@ drwxr-xr-x  co-founder   Jasmine Energy         # YC S22 · REC infrastructure f
 drwxr-xr-x  co-founder   Temper                 # metabolic health × behavioral science
 drwxr-xr-x  ops-other    Boundless Mind         # neuroscience-based AI for behavior change
 drwxr-xr-x  co-founder   Juris Protocol         # decentralized dispute resolution
-drwxr-xr-x  founder      The Meridian Lab        # agent tooling · shopclawmart.com · themeridianlab.com
+drwxr-xr-x  founder      The Meridian Lab       # The Defense Department of the Internet
 drwxr-xr-x  founder      AgentProof             # detects AI-sent emails in Gmail · Chrome extension
 drwx------  private      ████████████████       # consumer health data platform
 drwx------  private      ████████████████       # AI + beauty, east-meets-west
@@ -37,7 +37,7 @@ total 3
 mattmayberry@github:~$ cat stack.txt
 
 Python · TypeScript · React · Supabase
-Claude Code · Cloudflare Workers · Stripe · x402
+Cloudflare Workers · Stripe · x402
 Autonomous agents in production
 Things that probably shouldn't work but do
 ```
@@ -49,4 +49,4 @@ Building. Shipping. Some of it you can see now.
 
 ---
 
-<sub>If you're seeing mostly empty repos, that's by design. The interesting stuff is behind `chmod 700` — or on <a href="https://shopclawmart.com">ClawMart</a>.</sub>
+<sub>If you're seeing mostly empty repos, that's by design. The interesting stuff is behind `chmod 700` — or on <a href="[https://shopclawmart.com](https://www.shopclawmart.com/creators/0b191042-fae4-4a27-9bc4-39860bdd7e84)">ClawMart</a> and <a href="[https://themeridianlab.com)">The Meridian Lab</a>.</sub>
