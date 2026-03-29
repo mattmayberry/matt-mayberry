@@ -7,8 +7,9 @@ mattmayberry@github:~$ whoami
 ```
 mattmayberry@github:~$ cat /etc/motd
 
-  Multi-time founder. Currently building consumer products
-  at the intersection of data, AI, and things people care about.
+  Multi-time founder. Currently building agent tooling and
+  consumer products at the intersection of data, AI, and
+  things people care about.
 
 mattmayberry@github:~$ ls -la ventures/
 total ██
@@ -17,26 +18,35 @@ drwxr-xr-x  co-founder   Jasmine Energy         # YC S22 · REC infrastructure f
 drwxr-xr-x  co-founder   Temper                 # metabolic health × behavioral science
 drwxr-xr-x  ops-other    Boundless Mind         # neuroscience-based AI for behavior change
 drwxr-xr-x  co-founder   Juris Protocol         # decentralized dispute resolution
-drwx------  private      ████████████████       # AI Lab
+drwxr-xr-x  founder      The Meridian Lab        # agent tooling · shopclawmart.com · themeridianlab.com
+drwxr-xr-x  founder      AgentProof             # detects AI-sent emails in Gmail · Chrome extension
 drwx------  private      ████████████████       # consumer health data platform
 drwx------  private      ████████████████       # AI + beauty, east-meets-west
-drwx------  private      ████████████████       # Agentic Spam Blocker
+```
+
+```
+mattmayberry@github:~$ ls -la public/skills/
+total 3
+
+-rw-r--r--  free   agent-security-checklist   # 5 rules that protect agents from injection + credential theft
+-rw-r--r--  free   stripe-audit-checklist     # MRR, failed payments, and at-risk revenue in one command
+-rw-r--r--  free   x402-quick-start           # the parse-pay-retry pattern for x402-gated APIs
 ```
 
 ```
 mattmayberry@github:~$ cat stack.txt
 
 Python · TypeScript · React · Supabase
-Claude Code · Cloudflare Workers · Stripe
+Claude Code · Cloudflare Workers · Stripe · x402
 Autonomous agents in production
 Things that probably shouldn't work but do
 ```
 
 ```
 mattmayberry@github:~$ cat .plan
-Building. Shipping. Most of it you can't see yet.
+Building. Shipping. Some of it you can see now.
 ```
 
 ---
 
-<sub>If you're seeing mostly empty repos, that's by design. The interesting stuff is behind `chmod 700`.</sub>
+<sub>If you're seeing mostly empty repos, that's by design. The interesting stuff is behind `chmod 700` — or on <a href="https://shopclawmart.com">ClawMart</a>.</sub>
